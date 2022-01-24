@@ -1,0 +1,21 @@
+Repositorio sobre o conteudo do Bootcamp da Dio.me
+
+Bootcamp Inter Front-End Developer
+
+1° Conteudo: Lógica de Programação básica
+
+-- Aprendi os concetos básicos de lógica aplicada a programação. Adqiri conhecimentos sobre variantes e constantes.
+
+2° Conteúdo: Programação orientada a objetos
+
+-- Aprendi o que são estruturas basicas de dados, como as Arvores, a Lista de Hash, etc...
+
+3° Conteúdo: Iniciando em Git e GitHub
+
+-- Foi confusso no inicio e eu pensei em desistir, mas insisti um pouco e acabei absorvendo muito bem o tema, apesar de ser algo totalmente novo para mim e eu definitivamente preciso estudar mais sobre.
+   Entendi, em um nível mais básico qual a útilidade do Git. Básicamente é um meio de armazenar e proteger o meu codigo. E o GitHub é um portal para divulgar  e armazenar de forma mais pratica o meu projeto. Alem de ter uma aparencia muito mais convidativa do que o terminal do Git.
+   Aprendi comandos basicos como: git int, git add, git commit. ASlem de outras funcionalidades como o ECHO, CLS,GIT CLONE, etc...
+
+4° Conteúdo: Projetos Ageis com SCRUM
+
+-- Ainda na fase inicial mas ja tenho alguma luz do que seja projetos ageis e a difrença entre projetos agesis x projetos tradicionais e como isso impacta na equipe e na vida do cliente.
